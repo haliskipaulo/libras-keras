@@ -14,7 +14,7 @@ detector = HandDetector(maxHands=1)
 offset = 20
 imgSize = 300
 
-folder = 'data_base/C'
+folder = 'data_base/Z '
 
 while True:
     success, img = cap.read()
